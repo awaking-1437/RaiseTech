@@ -5,4 +5,4 @@ github、gitはエンジニアには必須のスキルだと思うので
 
 # 課題
 ブランチに保護ルールをつける。
-<img width="626" alt="l2-1" src="https://github.com/awaking-1437/RaiseTech/assets/165385661/c61e2540-62da-41de-b86e-0ac2c0506c0c">
+<img width="884" alt="タイトルなし" src="https://github.com/awaking-1437/RaiseTech/assets/165385661/72a43440-6bbd-41f7-806c-fb28716110be">
