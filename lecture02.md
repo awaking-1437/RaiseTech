@@ -5,4 +5,4 @@ github、gitはエンジニアには必須のスキルだと思うので
 
 # 課題
 ブランチに保護ルールをつける。
-![rule](/images/rule.png)
+![rule](images/rule.png)
